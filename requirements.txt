@@ -1,4 +1,0 @@
-pyTelegramBotAPI
-Flask
-gunicorn
-pip install flask gunicorn
