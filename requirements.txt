@@ -1,3 +1,4 @@
 pyTelegramBotAPI==4.15.3  # Install telebot
-flask==2.2.2  # If using Flask for Railway
-gunicorn==20.1.0  # If using Gunicorn for deployment
+flask==2.2.2  # Compatible Flask version
+gunicorn==20.1.0  # If using Gunicorn
+werkzeug==2.2.2  # Compatible Werkzeug version
