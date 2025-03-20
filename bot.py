@@ -1,4 +1,3 @@
-import telebot
 import random
 import os
 import sys
@@ -6,6 +5,8 @@ import time
 import re
 import datetime
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
+import telebot
+print("Telebot is installed successfully!")
 
 # ✅ Bot Token & Owner ID (Replace with actual values)
 TOKEN = "7832607410:AAGXJCOAf-1206mL-5gZqzOOKhojRrOvBR0"
